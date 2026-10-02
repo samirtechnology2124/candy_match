@@ -1,0 +1,71 @@
+Perfect 🚀 Here’s everything you need for Play Store listing:
+
+### *1. APP NAME*
+*Candy Match: Puzzle Blast*
+
+Alt options: `Sweet Candy Match`, `Candy Crush Match 3`
+
+### *2. PACKAGE NAME*
+miomoi.canidgmes.candymatch
+
+
+### *3. CATEGORY*
+*Puzzle*  
+Subcategory: *Casual* or *Match 3*
+
+### *4. SHORT DESCRIPTION* - 80 chars max
+Match 3 candies! Swap, blast combos & beat 2000+ score levels
+### *5. LONG DESCRIPTION* - 4000 chars max
+Welcome to Candy Match: Puzzle Blast! 🍬
+
+The most colorful and addictive match-3 puzzle game. Swap colorful candies, make matches of 3 or more, and create powerful combos to clear levels!
+
+**HOW TO PLAY**
+1. Tap a candy, then tap an adjacent candy to swap them
+2. Match 3 or more of the same color horizontally or vertically
+3. Match 4 to create Striped Candies that clear rows/columns
+4. Use your moves wisely to reach the target score
+
+**GAME FEATURES**
+- 🎮 Easy tap & drag controls
+- 💥 Cool combos, explosions and particle effects
+- 🎵 Relaxing sounds and music effects
+- 🏆 Level system with increasing difficulty
+- 📊 Save your high score automatically
+- 🔈 Sound ON/OFF in settings
+
+Beat level 1 by reaching 2000 points in 30 moves. Can you beat your best score?
+
+Perfect for killing time and relaxing. No internet required!
+
+Download Candy Match now and start your sweet puzzle adventure!
+### *6. HOW TO PLAY - for Store Listing*
+1. Tap to select a candy
+2. Tap an adjacent candy to swap
+3. Make lines of 3 or more same candies
+4. Clear the board and reach target score before moves run out
+### *7. PERMISSIONS* 
+Your game uses 0 dangerous permissions ✅
+
+Only default Flutter permissions:
+INTERNET - For Google Fonts loading
+If you remove GoogleFonts and use local fonts, you need 0 permissions.
+
+Add this to `AndroidManifest.xml` if you want 0 permissions:
+<uses-permission android:name="android.permission.INTERNET" android:maxSdkVersion="32" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" tools:node="remove"/>
+### *8. DATA COLLECTED - Play Store Data Safety*
+You collect: *None* ✅
+
+Fill this on Play Console:
+- *Personal info*: No
+- *Financial info*: No  
+- *Location*: No
+- *Device ID*: No
+- *Crash data*: No
+- *Data is encrypted*: Yes - SharedPreferences
+
+Reason: We only save `highScore` and `sound setting` locally on your device. Nothing is sent to servers.
+
+---
+
